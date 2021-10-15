@@ -8,9 +8,9 @@ namespace GildedRose.Core.Specs
 {
     public class GildedRoseSpecs
     {
-        [Fact]
-        public void After_one_day()
-        {
-        }
+//        [Fact]
+//       public void Test()
+//        {
+//        }
     }
 }
